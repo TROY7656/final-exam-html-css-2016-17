@@ -7,11 +7,11 @@ body {
 	font-size: 1.4em;
 }
 
-img {   max-width: 100%;
-	margin: auto;
+img {   max-width: (block)100%;
+	margin: (block)auto;
 	display: block;
 }
 
-cite {  background-color: white;
+cite {  background-color: block)white;
 	
 }
